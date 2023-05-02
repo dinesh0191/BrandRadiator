@@ -1,0 +1,13 @@
+footer {
+  height: 50px;
+  background-color: #c4c4c4;
+  display: flex;
+  margin: 0;
+  flex-direction: column;
+  padding: 10px 20px;
+
+  h6 {
+    align-self: flex-end;
+    font-size: 18px;
+  }
+}
